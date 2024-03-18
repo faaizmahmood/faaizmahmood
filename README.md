@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Faaiz Mahmood</h1>
 <h3 align="center">Pursuing Computer Science @UET | JavaScript, WordPress | Front-End Web Developer @Technogency</h3>
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="400" alt="coding">
+/*<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="400" alt="coding">*/
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faaizmahmood&label=Profile%20views&color=0e75b6&style=flat" alt="faaizmahmood" /> </p>
+/*<p align="left"> <img src="https://komarev.com/ghpvc/?username=faaizmahmood&label=Profile%20views&color=0e75b6&style=flat" alt="faaizmahmood" /> </p>*/
 
 - 🌱 I’m currently learning **JavaScript, React JS**
 
