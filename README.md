@@ -1,19 +1,11 @@
 [![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Faaiz Mahmood</h1>
-<h3 align="center">Pursuing Computer Science @UET | JavaScript, WordPress | Front-End Web Developer @Technogency</h3>
+<h3 align="center">Pursuing Computer Science @UET | ReactJS, WordPress, NodeJS | Front-End ReactJS Developer @Techvor</h3>
 
-- 🌱 I’m currently learning **JavaScript, React JS**
+A Front-End Developer specializing in HTML, CSS, JavaScript, and React with 2+ years of experience delivering user-friendly interfaces. Experienced in developing and optimizing websites for optimal performance across various devices. I'm interested in working on projects that push the boundaries of web development.
 
-- 👨‍💻 All of my projects are available at [https://dev-faaizmahmood.pantheonsite.io/](https://dev-faaizmahmood.pantheonsite.io/)
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **faizzafar44@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/faaiz-mahmood/](https://www.linkedin.com/in/faaiz-mahmood/)
-
-- ⚡ Fun fact **I am introvert**
+<b>Adept at:</b> React.JS • JavaScript • TypeScript • Redux • HTML5 • CSS3 • Bootstrap • SQL • MongoDB • Material UI • WordPress • Elementor • Git • GitHub • Bitbucket
 
 </br>
 
