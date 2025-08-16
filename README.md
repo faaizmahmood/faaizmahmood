@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Faaiz Mahmood</h1>
-<h3 align="center">Front-End ReactJS Developer @Techvor</h3>
+<h3 align="center">IBM Certified Full-Stack Developer</h3>
 
 A Front-End Developer specializing in HTML, CSS, JavaScript, and React with 2+ years of experience delivering user-friendly interfaces. Experienced in developing and optimizing websites for optimal performance across various devices. I'm interested in working on projects that push the boundaries of web development.
 
