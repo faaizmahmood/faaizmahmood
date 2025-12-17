@@ -1,11 +1,9 @@
 [![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Faaiz Mahmood</h1>
-<h3 align="center">IBM Certified Full-Stack Developer</h3>
+<h3 align="center">Software Engineer (MERN / AWS)</h3>
 
-A Front-End Developer specializing in HTML, CSS, JavaScript, and React with 2+ years of experience delivering user-friendly interfaces. Experienced in developing and optimizing websites for optimal performance across various devices. I'm interested in working on projects that push the boundaries of web development.
-
-<b>Adept at:</b> React.JS • JavaScript • TypeScript • Redux • HTML5 • CSS3 • Bootstrap • SQL • MongoDB • Material UI • WordPress • Elementor • Git • GitHub • Bitbucket
+Software Engineer with experience in building production-grade web applications using MERN and Next.js. I work across the full stack, focusing on solid architecture, clean code, and reliable system design. I have hands-on experience with SaaS platforms, multi-tenant systems, databases, and cloud deployments on AWS, Heroku and Vercel. I enjoy solving real engineering problems and contributing to products that need stability, scalability, and long-term maintainability.
 
 </br>
 
